@@ -1,4 +1,5 @@
 npm initconst { Client , Intents , Collection}  = require('discord.js')
+import os
 const client = new Client({intents:32767})
 const fs = require('fs')
 module.exports = client
@@ -98,5 +99,5 @@ client.on("messageCreate", async message => {
         }
     })
 })
-
-client.login("OTMzNjYwOTM2MTI3MDEyOTE0.YekxgQ.8N3WiC_XNft42ObLrPKLaJ70pmE")
+access_token = os.environ["BOT_TOKEN"]
+client.login(access_token)
