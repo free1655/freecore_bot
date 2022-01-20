@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "name": "fr_core_bot",
+  "version": "1.0.0",
+  "description": "npm install discord.js",
+  "main": "npm install discord.js",
+  "scripts": {
+    "test": "npm install discord.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}

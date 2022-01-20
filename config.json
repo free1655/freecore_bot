@@ -1,0 +1,5 @@
+{
+  "prefix":"!",
+  "token": "OTMzNjYwOTM2MTI3MDEyOTE0.YekxgQ.8N3WiC_XNft42ObLrPKLaJ70pmE",
+  "mongo_url":"mongodb+srv://moonbotDB:1234@cluster0.au97t.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
